@@ -11,4 +11,11 @@ An encoder is simulated for an information source consisting of an uncompressed 
 Amplitude-shift keying is a form of modulation in which digital data is represented as variations in the amplitude of the carrier wave as a function of the data to be sent.
 
 
+# How to run
+
+Download or clone de rep, go into the src folder and run the main.m file
+
+# Paths
+
+Maybe you will need to copy and paste de functions .m into your MATLAB default path to run without Errors.
 
