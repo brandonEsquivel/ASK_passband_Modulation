@@ -13,9 +13,10 @@ Amplitude-shift keying is a form of modulation in which digital data is represen
 
 # How to run
 
-Download or clone de rep, go into the src folder and run the main.m file
+Download or clone de rep, go into the src folder and run at the main.m file the section you want. Run all the main may cause errors because the stages for differents process are all in the file 
 
 # Paths
 
 Maybe you will need to copy and paste de functions .m into your MATLAB default path to run without Errors.
+A audio WAV file is readed, check this path and file before run.
 
